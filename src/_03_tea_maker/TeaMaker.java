@@ -6,6 +6,14 @@ package _03_tea_maker;
 
 public class TeaMaker {
 
+	public TeaMaker(String string) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public TeaMaker() {
+		// TODO Auto-generated constructor stub
+	}
+
 	/* Figure out how to make a cup of tea in this runner class, using the other classes below */
 
 }

@@ -20,6 +20,10 @@ public class Smurf {
 		this.name = name;
 	}
 
+	public Smurf() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public String getName() {
 		return "My name is " + name + " Smurf.";
 	}
@@ -39,6 +43,14 @@ public class Smurf {
 		// 4. Fill in this method
 		return "";
 	}
+
+	public void getName(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
 
 }
 
