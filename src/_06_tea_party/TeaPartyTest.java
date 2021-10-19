@@ -16,6 +16,11 @@ package _06_tea_party;
 			assertEquals("Hello Ms. Austen", teaParty.welcome("Austen", true, false));
 		}
 
+		private void assertEquals(String string, String welcome) {
+			// TODO Auto-generated method stub
+			
+		}
+
 		@Test
 		public void testIsManNotKnighted() {
 			TeaParty teaParty = new TeaParty();
@@ -33,6 +38,6 @@ package _06_tea_party;
 			TeaParty teaParty = new TeaParty();
 			assertEquals("Hello Lady Laura", teaParty.welcome("Laura", true, true));
 		}
-
+	
 	}
-}
+
