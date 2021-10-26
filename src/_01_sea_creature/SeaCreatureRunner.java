@@ -13,14 +13,14 @@ SeaCreature squidward = new SeaCreature("Squidward");
 
 	spongebob.eat();
 	spongebob.laugh();
-	spongebob.getName();
+	System.out.println(spongebob.getName());
 	
 	patrick.eat();
 	patrick.laugh();
-	patrick.getName();
+	System.out.println(patrick.getName());
 	
 	squidward.eat();
-	squidward.getName();
+	System.out.println(squidward.getName());
 	squidward.laugh();
 	
 
